@@ -1,0 +1,18 @@
+<!-- Task List -->
+# 2021-12-14
+$DONE: Job done
+$TODO: To-do task here
+$BUG: Dug the bug
+$REVIEW: This is review from...
+$NOTE: Simple color scheme config for npp task list
+
+
+<!-- 
+# NPP Task list command
+# followed by colon(:)
+$DONE
+$TODO
+$BUG
+$REVIEW
+$NOTE
+-->
