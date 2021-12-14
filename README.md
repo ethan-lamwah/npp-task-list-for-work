@@ -11,7 +11,15 @@ Install the plugin from `Notepad++ > Plugins > Plugins Admin` or [here](https://
 
 
 ## User Defiend Language
-You can defind you own style or use the given `udl.xml` file
+You can defind you own style or use the given `udl.xml` file, then select the udl from `Language > click your UDL ...`
 
 ### How to import UDL file
 `Language > User Defiend Language > Defind your langugae... > [Import...]` then select and open the UDL file.
+
+## Demo
+1. open the sample.txt
+2. `Plugins > Task List > Show Task List`
+
+![image](https://user-images.githubusercontent.com/42923621/145942393-6d1871d8-33c2-4b3a-938b-e5baf57adf9f.png)
+
+
